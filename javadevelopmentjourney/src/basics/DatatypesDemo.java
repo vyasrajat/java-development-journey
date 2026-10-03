@@ -1,6 +1,6 @@
 package basics;
 
-public class Datatypes {
+public class DatatypesDemo {
 
 	public static void main(String[] args)
 	{
